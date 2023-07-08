@@ -68,7 +68,7 @@
 
 ![image](https://github.com/David123890dd/configure-ad/assets/138183500/750a4a13-3d5b-4910-b29d-10ed5a8aba9b)
 
-<h3>in the folder we created, right click --> New --> user. fill in their login info. The "user logon name" is what will be used as the login credentials when connecting to any of the computers connected to the domain controller. Click next --> setup password --> next --> finish. Now we have a domain user.</h3>
+<h3>in the folder we created, right click --> New --> user. fill in their login info. The "user logon name" is what will be used as the login credentials when connecting to any of the computers connected to the domain controller. Click next --> setup password(uncheck "User must change password at next login" if you want the password to stay the same)--> next --> finish. Now we have a domain user.</h3>
 
 ![image](https://github.com/David123890dd/configure-ad/assets/138183500/8cf83bea-a709-4709-8c82-c3b276c7e702)
 
