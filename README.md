@@ -40,7 +40,7 @@
 
 ![image](https://github.com/David123890dd/configure-ad/assets/138183500/47710f5a-c18a-44c1-9fce-a7f3b652416c)
 
-<h3>From now on, when connecting to the Domain controller, log in with the root domain name, type backslash and the Domain controller's Username. The password is the same. Go to "more choices" --> "Use a Different Account" </h3>
+<h3>From now on, when connecting to the Domain controller, log in with the root domain name, type backslash and the Domain controller's Username. The password is the same. Go to "more choices" --> "Use a Different Account" in order to enter a different username</h3>
 
 ![image](https://github.com/David123890dd/configure-ad/assets/138183500/528bc133-d1ee-4038-81bb-009d85146a4e)
 
