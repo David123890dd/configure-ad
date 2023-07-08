@@ -14,7 +14,7 @@
 
 ![image](https://github.com/David123890dd/configure-ad/assets/138183500/ec6e0932-ec0f-4c63-b1bc-87bd210eb7c4)
 
-<h3>Set the client DNS server to the domain controller NIC private IP. To do that, go to the client virtual machine, Networking --> Network interface --> DNS Servers --> Custom and type in the Private DNS numbers found in Domain controller, Networking. you will see the NIC private IP. Make sure to restart before launching.</h3>
+<h3>Set the client DNS server to the domain controller NIC private IP. To do that, go to the client virtual machine, Networking --> Network interface --> DNS Servers --> Custom and type in the Private DNS numbers found in Domain controller --> Networking. you will see the NIC private IP. Make sure to restart before launching.</h3>
 
 ![image](https://github.com/David123890dd/configure-ad/assets/138183500/ac9ce6db-0b0a-4d57-b1ef-fe8d99ef79db)
 
