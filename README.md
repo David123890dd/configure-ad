@@ -1,5 +1,14 @@
 # Configuring active directory
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Server manager
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
 
 <h3>To setup an active directory, we need a Domain controller and a Client. For the domain controller in azure, setup the operating system as "Windows server 2022 Datacenter"</h3>
 
